@@ -150,22 +150,3 @@ This project was developed as part of **learning and academic practice**, focusi
 If you like this project, don’t forget to ⭐ star the repository!
 
 ```
-
----
-
-## ✅ Next Recommended Steps (VERY IMPORTANT)
-1. Add **screenshots folder**
-2. Deploy frontend (Netlify/Vercel)
-3. Add **Live Demo link** in README
-4. Mention this project in **resume & LinkedIn**
-
----
-
-If you want, I can:
-- ✨ Customize this README for **placements**
-- 🌍 Add **Live Demo section**
-- 📸 Create **README screenshots layout**
-- 📝 Write **resume-ready project description**
-
-Just tell me 👍
-```
